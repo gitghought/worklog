@@ -23,5 +23,12 @@
 
 #3.海勤|给出测试用开机视频
 
-
+#4.海勤|查证开机视频
+- 开机动画  
+		- setprop persist.sys.log.debug true   
+		- 重启设备  
+		- logcat -s otaservice  
+- 开机动画相关的进程
+	- 执行命令  
+		ps | grep "cantv" 能够看到pm开头的进程  
 	
