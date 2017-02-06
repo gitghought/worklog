@@ -37,5 +37,5 @@
 		- 将连接地址发给胡晓芳   
 	- 更新黑屏补丁   
 		- 在gerrit 中点击cherry pick  
-	- 测试固件和launcher
-	- 提测固件和launcher
+	-[ ] 测试固件和launcher
+	-[ ] 提测固件和launcher
