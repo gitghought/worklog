@@ -33,9 +33,9 @@
 		ps | grep "cantv" 能够看到pm开头的进程  
 	
 #5. 天敏的TM6固件更新Laucner
-	- 更新launcher  
-		- 将连接地址发给胡晓芳   
-	- 更新黑屏补丁   
-		- 在gerrit 中点击cherry pick  
-	- [ ] 测试固件和launcher  
-	- [ ] 提测固件和launcher  
+- 更新launcher  
+	- 将连接地址发给胡晓芳   
+- 更新黑屏补丁   
+	- 在gerrit 中点击cherry pick  
+- [x] 测试固件和launcher  
+- [x] 提测固件和launcher  
