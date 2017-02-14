@@ -1,6 +1,8 @@
 # 遥控器
 
-## 修改kl文件  
+## 修改kl文件 
+> 此步骤用于创建一个全新的遥控器键值码的情况
+
 - 文件绝对路径：[绝对路径](#klAbaPath "good")   
 	- customer_ir_{}.kl
 - 将修改后的kl文件复制到“device/softwinner/dolphin-cantv-h2/configs/”下  
@@ -8,6 +10,12 @@
 - 修改“/home/gaihao/b_h2_allwinner/Allwinner-h2/device/softwinner/dolphin-cantv-h2/dolphin_cantv_h2.mk”
 	- 修改：PRODUCT_COPY_FILES，在后面添加源文件位置和目标文件位置
 	
+## 修改kl文件 
+
+- 文件绝对路径：[绝对路径](#klAbaPath "good")   
+	- customer_ir_{}.kl
+
+
 ## 修改fex文件
 
 ### 刷机&清除

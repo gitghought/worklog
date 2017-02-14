@@ -14,6 +14,7 @@
 	- [] 状态
 **********
 
+## 20170214
 
-[baidu] [bd]
-[bd]:http://www.baidu.com
+### 上传开机视频 
+- 链接：http://pan.baidu.com/s/1pKBvoUZ 密码：gq5n
