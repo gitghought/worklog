@@ -34,9 +34,15 @@
 			- ir_addr_code9       = 0xff00 ** key code ** 
 
 
+## 测试遥控器键值
+### 测试直播和点播
+> 在没有遥控器的情况下，使用其它遥控器
+- 手动修改/system/usr/keylayout下的kl文件
+	- 将kl文件pull出来修改
+	- 将修改后的kl文件push进去
 
 *****  
 
 
-####klAbsPath
+####file:///F:/mygithub/worklog/vf_remote.md#klAbaPath
 /home/gaihao/b_h2_allwinner/Allwinner-h2/device/softwinner/common/configs/keylayout
