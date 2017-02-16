@@ -3,7 +3,7 @@
 ## 修改kl文件 
 > 此步骤用于创建一个全新的遥控器键值码的情况
 
-- 文件绝对路径：[绝对路径](#klAbaPath "good")   
+- 文件绝对路径：[绝对路径](#kl_abs_path "good")   
 	- customer_ir_{}.kl
 - 将修改后的kl文件复制到“device/softwinner/dolphin-cantv-h2/configs/”下  
 	- /home/gaihao/b_h2_allwinner/Allwinner-h2/device/softwinner/dolphin-cantv-h2/configs/
@@ -45,6 +45,5 @@
 
 *****  
 
-
-####file:///F:/mygithub/worklog/vf_remote.md#klAbaPath
+## kl_abs_path
 /home/gaihao/b_h2_allwinner/Allwinner-h2/device/softwinner/common/configs/keylayout
