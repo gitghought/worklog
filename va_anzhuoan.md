@@ -16,13 +16,26 @@
 	- [x] 状态
 
 - 开机动画
-	- [ ] 状态
+	- [x] 状态
 	
 - 系统属性->内部型号
-	- [] 状态
+	- [x] 状态
 **********
 
 ## 20170214
 
 ### 上传开机视频 
 - 链接：http://pan.baidu.com/s/1pKBvoUZ 密码：gq5n
+
+
+##20170217
+### 升级最新固件
+### 测试
+- 获取系统属性
+	- adb shell getprop | grep {属性名}
+- 测试开机动画
+	- adb shell setprop persist.sys.log.debug true
+	- 重启
+	- ps | grep pm
+	- logcat -s pm
+
